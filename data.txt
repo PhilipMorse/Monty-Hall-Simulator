@@ -1,0 +1,10 @@
+Switch
+Wins
+9
+Loses
+5
+NoSwitch
+Wins
+5
+Loses
+12
